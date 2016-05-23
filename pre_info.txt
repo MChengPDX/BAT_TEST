@@ -1,0 +1,2 @@
+[ro.build.fingerprint]: [quanta/r2_sltquanta/sltquanta:6.0.1/MMB29M/MBe009889:userdebug/test-keys]
+Linux version 3.14.55-00206-g3bf5efa (buildbot@buildbot) (gcc version 4.8.2 (GCC) ) #1 SMP PREEMPT Mon Apr 25 21:31:44 UTC 2016
